@@ -5,7 +5,7 @@
 ### Machine Learning Projects 
 
 [Adult Income Prediction](/sample_page)
-<img src="images/aip.jpg?raw=true"/>
+<img src="images/aip.jpg?raw=true"/> <img src="images/aip1.jpg?raw=true"/> <img src="images/aip2.jpg?raw=true"/> <img src="images/aip3.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
