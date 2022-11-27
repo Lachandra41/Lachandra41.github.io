@@ -8,8 +8,8 @@
 <img src="images/aip.jpg?raw=true"/> 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bank Loans Marketing Campaign](/pdf/sample_presentation.pdf)
+<img src="images/bank.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
