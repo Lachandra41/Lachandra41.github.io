@@ -8,12 +8,12 @@
 <img src="images/aip4.jpg?raw=true"/> 
 
 ---
-[Bank Loans Marketing Campaign](/pdf/sample_presentation.pdf)
+[Bank Loans Marketing Campaign Prediction](/pdf/sample_presentation.pdf)
 <img src="images/bank.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Big Mart Sales Prediction](http://example.com/)
+<img src="images/bigm1.jpg?raw=true"/>
 
 ---
 
