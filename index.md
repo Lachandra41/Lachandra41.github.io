@@ -10,7 +10,7 @@ The adult income prediction project goal is to predict the income of adults that
 
 ---
 [Bank Loans Marketing Campaign Prediction:](/pdf/sample_presentation.pdf)
-The bank loans marketing campaign project is about campaigns that a bank from portugal used to draw their subscribed consumers to their other loan services. The loan services include personal loans, housing loans, and term deposits. The banks obtain money from the intrest rates of the loans and term deposits. I used Naive Bayes to predict the if consumers will or will not subscribe to another loan or term deposit. Python porgramming language was used to analyza the data.
+The bank loans marketing campaign project is about campaigns that a bank from portugal used to draw their subscribed consumers to their other loan services. The loan services include personal loans, housing loans, and term deposits. The banks obtained money from the loan interest rates and term deposits. I used Naive Bayes to predict if consumers will or will not subscribe to another loan or term deposit. Python programming language was used to analyza the data.
 <img src="images/bank.jpg?raw=true"/>
 
 ---
