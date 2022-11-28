@@ -5,7 +5,7 @@
 ### Machine Learning Projects 
 
 [Adult Income Prediction](/sample_page)
-<img src="images/aip4.jpg?raw=true"/> <img src="images/aip2.jpg?raw=true"/> <img src="images/aip5.jpg?raw=true"/> <img src="images/aip6.jpg?raw=true"/>
+<img src="images/aip4.jpg?raw=true"/> 
 
 ---
 [Bank Loans Marketing Campaign Prediction](/pdf/sample_presentation.pdf)
