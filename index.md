@@ -30,7 +30,7 @@ The pizza restaurant wanted to sale as many pizzas as they can to increase their
 
 [Walmart Coffee Listings:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Walmart%20Coffee%20Lisings%20Exploratory%20Data%20Analysis)
 The walmart coffee listings project featured the walmart brand and sponsored brands of coffee. Walmart's goals are to increase their sales, number of consumers, increase the coffee ratings, and increase the coffee reviews. Walmart believes that more consumers will purchases the coffees from their website based on other consumer ratings and reviews. I used python programming language to analyze the data.
-<img src="images/Coffee listingsjpg?raw=true"/>
+<img src="images/Coffee listings.jpg?raw=true"/>
 
 
 ---
