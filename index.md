@@ -9,7 +9,7 @@ The adult income prediction project goal is to predict the income of adults that
 <img src="images/aip4.jpg?raw=true"/> 
 
 ---
-[Bank Loans Marketing Campaign Prediction:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Bank%20Loans%20Marketing%20with%20Machine%20Learning))
+[Bank Loans Marketing Campaign Prediction:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Bank%20Loans%20Marketing%20with%20Machine%20Learning)
 The bank loans marketing campaign project is about campaigns that a bank from portugal used to draw their subscribed consumers to their other loan services. The loan services include personal loans, housing loans, and term deposits. The banks obtained money from the loan interest rates and term deposits. I used Naive Bayes to predict if consumers will or will not subscribe to another loan or term deposit. Python programming language was used to analyze the data.
 <img src="images/bank.jpg?raw=true"/>
 
@@ -19,7 +19,7 @@ The big mart sales prediction project is about data scientists who compiled sale
 <img src="images/bigm1.jpg?raw=true"/>
 
 ---
-###Exploratory Data Analysis
+### Exploratory Data Analysis
 
 [Pizza Restaurant Sales :](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Pizza%20Restaurant%20Sales)
 The pizza restaurant wanted to sale as many pizzas as they can to increase their profits. The pizza resturant needed the type of pizzas, number of pizzas, pizza sales, size of pizzas, unit price per slice of pizza, and quantity of pizzas to be analyzed. The python programming language was used to analyze the data.
