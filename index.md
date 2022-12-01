@@ -19,7 +19,11 @@ The big mart sales prediction project is about data scientists who compiled sale
 <img src="images/bigm1.jpg?raw=true"/>
 
 ---
+###Exploratory Data Analysis
 
+[Pizza Restaurant Sales Prediction:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Pizza%20Restaurant%20Sales)
+The big mart sales prediction project is about data scientists who compiled sales informatin for the big mart outlets and ten various locationsl.The goal was to create a predictive model that can be utilized to estimate how well an item will sell at each store. I used the gradient booster regressor model to predict the item outlet sales of each outlet. I used python programming language to analyze the data within the dataset.
+<img src="images/pizza.jpg?raw=true"/>
 
 
 ---
