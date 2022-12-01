@@ -4,7 +4,7 @@
 
 ### Machine Learning Projects 
 
-[Adult Income Prediction:](/sample_page)
+[Adult Income Prediction:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Adult%20Income%20Prediction%20with%20Machine%20Learning/)
 The adult income prediction project goal is to predict the income of adults that reside in multiple countries. The income is greater than, equal to, or less than $50K per year. I used Naive Bayes model to predict accuracy of the adult income. Jupyter Python programming language was used to analyze the data.
 <img src="images/aip4.jpg?raw=true"/> 
 
