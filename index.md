@@ -35,6 +35,6 @@ The walmart coffee listings project featured the walmart brand and sponsored bra
 
 ---
 
-[Amazon Products with EDA:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Amazon%20Fashion0
-
-<img src="images/Coffee listingsjpg?raw=true"/>
+[Amazon Products with EDA:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Amazon%20Fashion0)
+The amazon products project was an analysis about product recommendations for amazon consumers. Amazon needed dependable product recommendations for their consumers. Amazon would like to boost their profits from their products. Amazon wants their reviews, price, and ratings to be analyzed. I used Python programming language to analyze the dataset.
+<img src="images/manu.jpg?raw=true"/>
