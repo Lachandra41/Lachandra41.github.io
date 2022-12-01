@@ -21,15 +21,20 @@ The big mart sales prediction project is about data scientists who compiled sale
 ---
 ###Exploratory Data Analysis
 
-[Pizza Restaurant Sales Prediction:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Pizza%20Restaurant%20Sales)
-The big mart sales prediction project is about data scientists who compiled sales informatin for the big mart outlets and ten various locationsl.The goal was to create a predictive model that can be utilized to estimate how well an item will sell at each store. I used the gradient booster regressor model to predict the item outlet sales of each outlet. I used python programming language to analyze the data within the dataset.
+[Pizza Restaurant Sales :](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Pizza%20Restaurant%20Sales)
+The pizza restaurant wanted to sale as many pizzas as they can to increase their profits. The pizza resturant needed the type of pizzas, number of pizzas, pizza sales, size of pizzas, unit price per slice of pizza, and quantity of pizzas to be analyzed. The python programming language was used to analyze the data.
 <img src="images/pizza.jpg?raw=true"/>
 
 
 ---
 
-
+[Walmart Coffee Listings:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Walmart%20Coffee%20Lisings%20Exploratory%20Data%20Analysis)
+The walmart coffee listings project featured the walmart brand and sponsored brands of coffee. Walmart's goals are to increase their sales, number of consumers, increase the coffee ratings, and increase the coffee reviews. Walmart believes that more consumers will purchases the coffees from their website based on other consumer ratings and reviews. I used python programming language to analyze the data.
+<img src="images/Coffee listingsjpg?raw=true"/>
 
 
 ---
 
+[Amazon Products with EDA:](https://github.com/Lachandra41/Lachandra-Ash-Portfolio/tree/main/Amazon%20Fashion0
+
+<img src="images/Coffee listingsjpg?raw=true"/>
